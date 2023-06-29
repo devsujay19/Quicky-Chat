@@ -1,0 +1,172 @@
+/*
+ *   Copyright (c) 2023 
+ *   All rights reserved.
+ */
+::-webkit-scrollbar {
+  width: 0;
+  height: 0;
+}
+
+@media screen {
+  body {
+    min-height: 100px;
+    min-width: 100px;
+  }
+
+  ::-webkit-scrollbar {
+    width: 50px;
+    height: 15px;
+  }
+}
+
+body {
+  background: #bdc3c7;
+  overflow: hidden;
+  min-width: 100px;
+  min-height: 100px;
+}
+
+.container {
+  width: 700px;
+  height: 640px;
+  background: #3a5269;
+  border-radius: 20px;
+  text-align: center;
+  position: relative;
+  left: 9.5pc;
+  box-shadow: 10px 15px 20px #233241;
+  min-width: 100px;
+  min-height: 100px;
+}
+
+header {
+  font-size: 60px;
+  color: aqua;
+  font-family: Teko;
+  position: relative;
+  top: 20px;
+}
+
+.github-button {
+  position: relative;
+  top: -40.3pc;
+  left: 44.7pc;
+  border: none;
+  border-radius: 8px;
+  background-color: #272b33;
+  font-size: 20px;
+  color: white;
+  font-family: sans-serif;
+  cursor: pointer;
+}
+.github-button:hover{
+  background-color: #3a5269;
+  color: aqua;
+}
+
+img {
+  background-color: white;
+  border-radius: 20px;
+}
+
+img:hover{
+  background-color: aqua;
+}
+
+text {
+  position: relative;
+  bottom: 6px;
+}
+
+.button {
+  width: 150px;
+  height: 60px;
+  position: relative;
+  bottom: 4pc;
+  right: 3px;
+  font-size: 40px;
+  font-weight: lighter;
+  font-family: Teko;
+  background-color: transparent;
+  border: none;
+  border-radius: 20px;
+  cursor: pointer;
+  transition: 0.3s;
+}
+
+.button:hover {
+  color: aqua;
+  background-color: #3a5269;
+
+}
+
+input {
+  width: 650px;
+  height: 70px;
+  background-color: #3a5269;
+  border: 1px solid #3a5269;
+  border-radius: 10px;
+  box-shadow: 5px 5px 20px #233241;
+  position: relative;
+  word-wrap: break-word;
+  overflow: scroll;
+  resize: vertical;
+  top: 29pc;
+  font-family: Ariel, Arial, Helvetica, sans-serif;
+  text-indent: 20px;
+  font-size: 20px;
+  color: whitesmoke;
+}
+
+.no-focus-behavior {
+  outline: none;
+}
+
+::placeholder {
+  font-size: 20px;
+  text-indent: 20px;
+  font-family: Arial, Helvetica, sans-serif;
+  color: #96bbe0;
+}
+
+.output-container {
+  width: 651px;
+  height: 420px;
+  border-radius: 20px;
+  border: 1px solid white;
+  position: relative;
+  bottom: 3pc;
+  left: 1.5pc;
+  text-align: center;
+  overflow: auto;
+}
+
+.output-container::-webkit-scrollbar {
+  width: auto;
+  height: auto;
+}
+
+a {
+  font-family: Century Gothic;
+  text-decoration: none;
+  font-weight: bolder;
+  color: rgb(34, 85, 255);
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+p {
+  text-align: center;
+  margin: 40px;
+  font-size: 25px;
+  color: whitesmoke;
+  font-family: Nunito;
+  word-wrap: break-word;
+}
+
+::selection {
+  background-color: aqua;
+  color: white;
+}

@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="chat.css">
+  <link rel="icon" href="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHChL3rOeM0wnlHpK0LrLBFCsnTcrKquo-AQ&usqp=CAU">
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Teko|Nunito|Poppins" />
+  <title>Quicky-Chat - Chat Generative Pretrained Tranformer - Responsive ChatGPT</title>
+</head>
+<body>
+
+  <div class="container">
+    <header>● Quicky - Chat ●</header>
+    <input type="text" id="inputBox" size="1" tabindex="0" role="input" class="no-focus-behavior" onkeydown="if(event.keyCode == 13){ talk()}" placeholder="Chat with Quick-Chat Freely...">
+    <div class="output-container">
+      <p id="answerFromQC">Hello, how I can help you?</p>
+    </div>
+  </div>
+  <a href="docs.html">
+    <button class="button">Information</button>
+  </a>
+  <a href="https://github.com/devsujay19/Responsive-Chat-Generative-Pretrained-Transformer">
+    <button class="github-button">
+      <img src="https://github.com/favicon.ico">
+      <text>Give Star</text>
+    </button>
+  </a>
+  <script src="chat.js"></script>
+</body>
+</html>

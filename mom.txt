@@ -1,0 +1,47 @@
+'when is mothers day': "Currently, the mother's day of 2023 is passed, the second mother's day event will come in Sun, May 12, 2024.",
+
+    'when is mothers day?': "Currently, the mother's day of 2023 is passed, the second mother's day event will come in Sun, May 12, 2024.",
+    
+    "when is mother's day": "Currently, the mother's day of 2023 is passed, the second mother's day event will come in Sun, May 12, 2024.",
+    
+    "when is mother's day?": "Currently, the mother's day of 2023 is passed, the second mother's day event will come in Sun, May 12, 2024.",
+    
+    'when is Mothers day': "Currently, the mother's day of 2023 is passed, the second mother's day event will come in Sun, May 12, 2024.",
+    
+    'when is Mothers day?': "Currently, the mother's day of 2023 is passed, the second mother's day event will come in Sun, May 12, 2024.",
+    
+    "when is Mother's day": "Currently, the mother's day of 2023 is passed, the second mother's day event will come in Sun, May 12, 2024.",
+    
+    "when is Mother's day?": "Currently, the mother's day of 2023 is passed, the second mother's day event will come in Sun, May 12, 2024.",
+    
+    'When is mothers day': "Currently, the mother's day of 2023 is passed, the second mother's day event will come in Sun, May 12, 2024.",
+    
+    'When is mothers day?': "Currently, the mother's day of 2023 is passed, the second mother's day event will come in Sun, May 12, 2024.",
+
+    "When is mother's day": "Currently, the mother's day of 2023 is passed, the second mother's day event will come in Sun, May 12, 2024.",
+
+    "When is mother's day?": "Currently, the mother's day of 2023 is passed, the second mother's day event will come in Sun, May 12, 2024.",
+
+    'When is Mothers day': "Currently, the mother's day of 2023 is passed, the second mother's day event will come in Sun, May 12, 2024.",
+
+    'When is Mothers day?': "Currently, the mother's day of 2023 is passed, the second mother's day event will come in Sun, May 12, 2024.",
+
+    "When is Mother's day": "Currently, the mother's day of 2023 is passed, the second mother's day event will come in Sun, May 12, 2024.",
+
+    "When is Mother's day?": "Currently, the mother's day of 2023 is passed, the second mother's day event will come in Sun, May 12, 2024.",
+
+    'WHEN IS MOTHERS DAY': "Currently, the mother's day of 2023 is passed, the second mother's day event will come in Sun, May 12, 2024.",
+
+    'WHEN IS MOTHERS DAY?': "Currently, the mother's day of 2023 is passed, the second mother's day event will come in Sun, May 12, 2024.",
+
+    "WHEN IS MOTHER'S DAY": "Currently, the mother's day of 2023 is passed, the second mother's day event will come in Sun, May 12, 2024.",
+
+    "WHEN IS MOTHER'S DAY?": "Currently, the mother's day of 2023 is passed, the second mother's day event will come in Sun, May 12, 2024.",
+
+    "WHEN IS MOTHERS DAY": "Currently, the mother's day of 2023 is passed, the second mother's day event will come in Sun, May 12, 2024.",
+    
+    "WHEN IS MOTHERS DAY?": "Currently, the mother's day of 2023 is passed, the second mother's day event will come in Sun, May 12, 2024.",
+    
+    "when is mothers' day": "Currently, the mother's day of 2023 is passed, the second mother's day event will come in Sun, May 12, 2024.",
+    
+    "when is mother's day?": "Currently, the mother's day of 2023 is passed, the second mother's day event will come in Sun, May 12, 2024.",
