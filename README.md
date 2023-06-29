@@ -1,6 +1,8 @@
-# Quicky-Chat - Quick Chat Generative Pretrained Transformer
+# Quicky-Chat - Quick Chat Generative Pretrained Transformer with Predefineed Questions and Answer Dictionary
 
 ## This is my try to make a Chat Bot using only Basic HTML, CSS and JavaScript. The Chat Bot named `Quicky-Chat`. The Chat Bot need to Update and Upgrade more.
+
+## This project may be subject to copyright - see more at this file : `COPYRIGHT`.
 
 ## This Chat Bot Created in `Github Codespace` - `React Template`.
 

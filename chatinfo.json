@@ -1,23 +1,28 @@
 {
-    "title": "Quicky-Chat",
-    "description": "This is a quick responsive Chat-Bot that can answer many of a user's questions.",
-    "programmingLanguagesUsedInIt": "HTML, CSS and JavaScript",
-    "MostUsedProgrammignLanguagesInIt": "JavaScript",
-    "type": "Chat-Bot/Artificial Intelligence",
-    "frameworkUsedInIt": "React",
-    "responsive": "Yes, it's Responsive",
-    "HTMLversion": "HTML5/<!DOCTYPE html>",
-    "version": "1.0"
-}
+    "Q.C. Information in JSON File" : [
 
-{
-    "creator": "Sujay Mukherjee",
-    "FBpage": "Yes. Available",
-    "FBpageLink": "_blank"
-}
-
-{
-    "faviconAvailability": "Yes, available",
-    "isCopied": "Yes. It is copied.",
-    "URLofThatPlace": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHChL3rOeM0wnlHpK0LrLBFCsnTcrKquo-AQ&usqp=CAU"
+        {
+            "title": "Quicky-Chat",
+            "description": "This is a quick responsive Chat-Bot that can answer many of a user's questions.",
+            "programmingLanguagesUsedInIt": "HTML, CSS and JavaScript",
+            "MostUsedProgrammignLanguagesInIt": "JavaScript",
+            "type": "Chat-Bot/Artificial Intelligence",
+            "frameworkUsedInIt": "React",
+            "responsive": "Yes, it's Responsive",
+            "HTMLversion": "HTML5/<!DOCTYPE html>",
+            "version": "1.0"
+        },
+        
+        {
+            "creator": "Sujay Mukherjee",
+            "FBpage": "Yes. Available",
+            "FBpageLink": "https://www.facebook.com/QuickyChat/"
+        },
+        
+        {
+            "faviconAvailability": "Yes, available",
+            "isCopied": "No. It is not copied.",
+            "URLofThatPlace": "img/qc-logo.png"
+        }
+    ]
 }
