@@ -4,23 +4,28 @@
         {
             "title": "Quicky-Chat",
             "description": "This is a quick responsive Chat-Bot that can answer many of a user's questions.",
-            "programmingLanguagesUsedInIt": "HTML, CSS and JavaScript",
-            "MostUsedProgrammignLanguagesInIt": "JavaScript",
-            "type": "Chat-Bot/Artificial Intelligence",
-            "frameworkUsedInIt": "React",
-            "responsive": "Yes, it's Responsive",
-            "HTMLversion": "HTML5/<!DOCTYPE html>",
+            "programmingLanguagesUsedInIt": "HTML, CSS and JavaScript.",
+            "MostUsedProgrammignLanguagesInIt": "JavaScript.",
+            "type": "Chat-Bot/Artificial Intelligence.",
+            "frameworkUsedInIt": "React.",
+            "responsive": "Yes, it's Responsive.",
+            "HTMLversion": "HTML5/<!DOCTYPE html>.",
             "version": "1.0"
+        },
+
+        {
+            "author": "Sujay Mukherjee.",
+            "copyright": "This project may be subject to copyright."
         },
         
         {
-            "creator": "Sujay Mukherjee",
-            "FBpage": "Yes. Available",
+            "creator": "Sujay Mukherjee.",
+            "FBpage": "Yes. Available!",
             "FBpageLink": "https://www.facebook.com/QuickyChat/"
         },
         
         {
-            "faviconAvailability": "Yes, available",
+            "faviconAvailability": "Yes, available!",
             "isCopied": "No. It is not copied.",
             "URLofThatPlace": "img/qc-logo.png"
         }
