@@ -67,7 +67,7 @@ const CheetSheet = [
   'how i can contact your creator'=
     'Yes, you can. By visit the Facebook Profile of Sujay Mukherjee, visit the Instagram Profile of Sujay Mukherjee and by visit the GitHub Profile of Sujay Mukherjee',
 
-  'Ho I can contact your creator'=
+  'How I can contact your creator'=
     'Yes, you can. By visit the Facebook Profile of Sujay Mukherjee, visit the Instagram Profile of Sujay Mukherjee and by visit the GitHub Profile of Sujay Mukherjee',
 
   'HOW I CAN CONTACT YOUR CREATOR'=
